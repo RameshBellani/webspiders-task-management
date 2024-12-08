@@ -94,9 +94,6 @@ This project uses Winston for logging. Logs are printed to the console and can b
 3. Commit your changes and push them to your branch.
 4. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For questions or support, please reach out at [rameshbellani95@gmail.com].
 
